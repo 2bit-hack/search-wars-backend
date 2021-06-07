@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "search-wars-backend",
+  "version": "1.0.0",
+  "description": "Backend for Search Wars!",
+  "main": "index.js",
+  "author": "Soham Kar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
